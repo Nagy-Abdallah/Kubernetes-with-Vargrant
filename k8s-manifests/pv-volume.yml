@@ -15,8 +15,6 @@ spec:
     kind: PersistentVolumeClaim
     name: postgres-pv-claim
     namespace: vote
-    resourceVersion: "102647"
-    uid: e03b50ae-137d-41d2-a74e-de47b1f93bef
   hostPath:
     path: /mnt/data
     type: ""
