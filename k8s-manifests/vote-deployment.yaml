@@ -23,8 +23,8 @@ spec:
           name: vote
         resources:
           limits:
-             cpu: 30m
-             memory: 500Mi
+             cpu: 500m
+             memory: 1000Mi
           requests:
-             cpu: 15m
-             memory: 200Mi          
+             cpu: 300m
+             memory: 500Mi          
