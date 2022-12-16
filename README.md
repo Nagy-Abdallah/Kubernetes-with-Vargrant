@@ -16,7 +16,11 @@
 ##### Clone the repo.
 `git clone https://github.com/Nagy-Abdallah/Provision-catDogApp.git`
 
-##### Go inside the directory 'Provision-catDogApp' and Run the bash script file.
+##### Go inside the directory 'Provision-catDogApp' and Give the execute permition to the bash file 'run.sh' the bash script file.
+`cd vagrant`
+
+`chmod +x run.sh`
+
 `./run.sh`
 
 ###### Wait about 3min untill the application is up then got ahead into this URLs:
