@@ -1,4 +1,5 @@
 #! /bin/bash
+cd vagrant
 echo "VagrantUP"
 #vagrant up
 vagrant ssh master  << EOF
