@@ -16,10 +16,9 @@
 ##### Clone the repo.
 `git clone https://github.com/Nagy-Abdallah/Provision-catDogApp.git`
 
-##### Go inside the directory 'Provision-catDogApp' and Give the execute permition to the bash file 'run.sh' the bash script file.
+##### Go inside the directory 'Provision-catDogApp' and run the bash file 'run.sh'.
 `cd vagrant`
 
-`chmod +x run.sh`
 
 `./run.sh`
 
